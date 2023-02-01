@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY PAGE</title>
+    <link rel="stylesheet" href="CSS/styles.css">
+    <link rel="icon" href="favicon.ico">
+</head>
+
+<body>
+    <div class="topc">
+        <img class="topcl" src="img/cloud.png" alt="cloud">
+        <h1 class="myName">I'm John Doe</h1>
+        <h2 class="programmer">a programmer</h2>
+        <img class="botcl" src="img/cloud.png" alt="cloud">
+        <img class="mountain" src="img/mountain.png" alt="mountain">
+    </div>
+
+        </body></html>
